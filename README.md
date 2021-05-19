@@ -6,3 +6,5 @@ this is to keep track of my progress on the projects
 3. Loan Calculator            (files: creditcalc.py)
 4. banking system operation   (files: banking.py, cards.s3db)
 5. Billsplitter               (files: billsplitter.py)
+6. Dominoes                   (files: dominoes.py)
+
